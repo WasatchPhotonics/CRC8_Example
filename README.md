@@ -2,7 +2,7 @@
 
 This repository provides a bare-bones working example of how to calculate the CRC8 checksum used in OEM WP Raman Spectrometers. 
 
-![interface](images/interface.png)
+![interface](https://github.com/WasatchPhotonics/CRC8_Example/blob/master/images/interface.PNG)
 
 The Cyclic Redunancy Check byte is used for error detection and is identical to that of Maxim/Dallas 1-wire devices, called *DOW CRC*. This calculation produces an 8-bit CRC value using the polynomial X^8 + X^5 + X^4 + X^0.
 
