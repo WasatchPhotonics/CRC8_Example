@@ -1,0 +1,17 @@
+c:\users\jason\documents\visual studio 2015\Projects\CRC8_Checksum_Example\CRC8_Checksum_Example\bin\Debug\CRC8_Checksum_Example.exe.config
+c:\users\jason\documents\visual studio 2015\Projects\CRC8_Checksum_Example\CRC8_Checksum_Example\bin\Debug\CRC8_Checksum_Example.exe
+c:\users\jason\documents\visual studio 2015\Projects\CRC8_Checksum_Example\CRC8_Checksum_Example\bin\Debug\CRC8_Checksum_Example.pdb
+c:\users\jason\documents\visual studio 2015\Projects\CRC8_Checksum_Example\CRC8_Checksum_Example\obj\Debug\CRC8_Checksum_Example.csprojResolveAssemblyReference.cache
+c:\users\jason\documents\visual studio 2015\Projects\CRC8_Checksum_Example\CRC8_Checksum_Example\obj\Debug\MainWindow.g.cs
+c:\users\jason\documents\visual studio 2015\Projects\CRC8_Checksum_Example\CRC8_Checksum_Example\obj\Debug\App.g.cs
+c:\users\jason\documents\visual studio 2015\Projects\CRC8_Checksum_Example\CRC8_Checksum_Example\obj\Debug\CRC8_Checksum_Example_MarkupCompile.cache
+c:\users\jason\documents\visual studio 2015\Projects\CRC8_Checksum_Example\CRC8_Checksum_Example\obj\Debug\CRC8_Checksum_Example_MarkupCompile.lref
+c:\users\jason\documents\visual studio 2015\Projects\CRC8_Checksum_Example\CRC8_Checksum_Example\obj\Debug\MainWindow.baml
+c:\users\jason\documents\visual studio 2015\Projects\CRC8_Checksum_Example\CRC8_Checksum_Example\obj\Debug\CRC8_Checksum_Example.g.resources
+c:\users\jason\documents\visual studio 2015\Projects\CRC8_Checksum_Example\CRC8_Checksum_Example\obj\Debug\CRC8_Checksum_Example.Properties.Resources.resources
+c:\users\jason\documents\visual studio 2015\Projects\CRC8_Checksum_Example\CRC8_Checksum_Example\obj\Debug\CRC8_Checksum_Example.csproj.GenerateResource.Cache
+c:\users\jason\documents\visual studio 2015\Projects\CRC8_Checksum_Example\CRC8_Checksum_Example\obj\Debug\CRC8_Checksum_Example.exe
+c:\users\jason\documents\visual studio 2015\Projects\CRC8_Checksum_Example\CRC8_Checksum_Example\obj\Debug\CRC8_Checksum_Example.pdb
+C:\Users\Jason\Documents\GitHub\CRC8_Example\CRC8_Checksum_Example\bin\Debug\CRC8_Checksum_Example.exe.config
+C:\Users\Jason\Documents\GitHub\CRC8_Example\CRC8_Checksum_Example\obj\Debug\CRC8_Checksum_Example.exe
+C:\Users\Jason\Documents\GitHub\CRC8_Example\CRC8_Checksum_Example\obj\Debug\CRC8_Checksum_Example.pdb
